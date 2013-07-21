@@ -1,0 +1,35 @@
+{
+  "sha": "2ef589e5d8e6f54defdff8e61d8c337739688aae",
+  "sources": {
+    "handson": {
+      "path": "."
+    },
+    "apache2": {
+      "locked_version": "1.6.6"
+    },
+    "mysql": {
+      "locked_version": "3.0.2"
+    },
+    "openssl": {
+      "locked_version": "1.0.2"
+    },
+    "build-essential": {
+      "locked_version": "1.4.0"
+    },
+    "database": {
+      "locked_version": "1.3.12"
+    },
+    "postgresql": {
+      "locked_version": "3.0.2"
+    },
+    "apt": {
+      "locked_version": "2.0.0"
+    },
+    "aws": {
+      "locked_version": "0.101.2"
+    },
+    "xfs": {
+      "locked_version": "1.1.0"
+    }
+  }
+}
